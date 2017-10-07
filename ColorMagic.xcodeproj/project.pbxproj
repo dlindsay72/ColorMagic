@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B114DD21F8849BC0097F246 /* ColorTransferDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B114DD11F8849BC0097F246 /* ColorTransferDelegate.swift */; };
 		7BFF850F1F881F3E00A357E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFF850E1F881F3E00A357E0 /* AppDelegate.swift */; };
 		7BFF85111F881F3E00A357E0 /* ColorPresenterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BFF85101F881F3E00A357E0 /* ColorPresenterVC.swift */; };
 		7BFF85141F881F3E00A357E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BFF85121F881F3E00A357E0 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7B114DD11F8849BC0097F246 /* ColorTransferDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTransferDelegate.swift; sourceTree = "<group>"; };
 		7BFF850B1F881F3E00A357E0 /* ColorMagic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorMagic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BFF850E1F881F3E00A357E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7BFF85101F881F3E00A357E0 /* ColorPresenterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPresenterVC.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				7BFF850E1F881F3E00A357E0 /* AppDelegate.swift */,
 				7BFF85101F881F3E00A357E0 /* ColorPresenterVC.swift */,
 				7BFF85201F88424600A357E0 /* ColorPickerVC.swift */,
+				7B114DD11F8849BC0097F246 /* ColorTransferDelegate.swift */,
 				7BFF85121F881F3E00A357E0 /* Main.storyboard */,
 				7BFF85151F881F3E00A357E0 /* Assets.xcassets */,
 				7BFF85171F881F3E00A357E0 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7BFF85111F881F3E00A357E0 /* ColorPresenterVC.swift in Sources */,
+				7B114DD21F8849BC0097F246 /* ColorTransferDelegate.swift in Sources */,
 				7BFF850F1F881F3E00A357E0 /* AppDelegate.swift in Sources */,
 				7BFF85211F88424600A357E0 /* ColorPickerVC.swift in Sources */,
 			);

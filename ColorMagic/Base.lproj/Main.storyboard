@@ -44,7 +44,7 @@
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="pqT-Bp-ZCv">
                             <color key="tintColor" red="0.2901960784" green="0.2901960784" blue="0.2901960784" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             <connections>
-                                <segue destination="HOy-eF-8tl" kind="show" id="HUg-OY-6Ab"/>
+                                <segue destination="HOy-eF-8tl" kind="show" identifier="presentColorPickerVC" id="HUg-OY-6Ab"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
